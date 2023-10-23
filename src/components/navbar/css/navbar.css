@@ -1,0 +1,7 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+.navbar__login {
+    margin-right: 10px;
+}
